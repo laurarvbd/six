@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fsix.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fsix?ref=badge_shield)
+
 .. image:: https://img.shields.io/pypi/v/six.svg
    :target: https://pypi.org/project/six/
    :alt: six on PyPI
@@ -27,3 +29,6 @@ Online documentation is at https://six.readthedocs.io/.
 
 Bugs can be reported to https://github.com/benjaminp/six.  The code can also
 be found there.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fsix.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fsix?ref=badge_large)
